@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SCP-COVID19" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SCP-COVID19" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SCP-COVID19" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="FuncoesCadastro/consultarCadastro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FuncoesCadastro/novoCadastro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FuncoesRelatorios/listarDadosGravados.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FuncoesRelatorios/relatorioGrupoRisco.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menus/exibeCabecalho.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menus/menuCadastro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menus/menuPrincipal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menus/menuRelatorios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ValidaEntrada/alertaSonoro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ValidaEntrada/coletaOpcaoMenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

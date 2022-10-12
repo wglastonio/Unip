@@ -1,0 +1,192 @@
+# depslib dependency file v1.0
+1605217893 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+
+1605392107 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\menus\menuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1605392084 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\menus\menucadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1603542284 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\menus\menuconsulta.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
+1605392126 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\menus\menurelatorios.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1603545438 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\menus\menuacesso.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
+1603560296 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\menus\menubasedeclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
+1605130177 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\validaentrada\coletaopcaomenu.c
+	<stdio.h>
+	<stdlib.h>
+
+1604180590 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\menus\menupacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
+1603564469 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoescadastro\alterarcadastro.c
+
+1605391989 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoescadastro\consultarcadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1603564514 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoescadastro\excluircadastro.c
+
+1603564593 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoesconsulta\listaracima65.c
+
+1603564623 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoesconsulta\listarpaccomorbidade.c
+
+1603564572 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoesconsulta\listartodos.c
+
+1605392069 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoesrelatorios\relatoriogruporisco.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1603564666 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoesrelatorios\relatorioinfectados.c
+
+1603571526 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\menus\menulogin.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
+1604089105 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoescadastro\gravadados.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<string.h>
+
+1605392019 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoescadastro\novocadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+
+1605129518 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\menus\exibecabecalho.c
+	<stdio.h>
+	<stdlib.h>
+
+1604016445 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\imprimedados\mostraentradadados.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<string.h>
+
+1605378755 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\validaentrada\alertasonoro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1604191880 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoesrelatorios\listaracima65.c
+
+1604191898 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoesrelatorios\listarcomcomorbidade.c
+
+1604191859 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoesrelatorios\listartodos.c
+
+1604752047 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\validaentrada\calculaidade.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1604191859 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoesrelatorios\listartodospacientes.c
+
+1605392423 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\codeblocks\scp-covid19\funcoesrelatorios\listardadosgravados.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1605391989 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\scp-covid19\funcoescadastro\consultarcadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1605649192 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\scp-covid19\funcoescadastro\novocadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+
+1605396597 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\scp-covid19\funcoesrelatorios\listardadosgravados.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1605392069 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\scp-covid19\funcoesrelatorios\relatoriogruporisco.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1605217893 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\scp-covid19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+
+1605129518 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\scp-covid19\menus\exibecabecalho.c
+	<stdio.h>
+	<stdlib.h>
+
+1605392084 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\scp-covid19\menus\menucadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1605392107 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\scp-covid19\menus\menuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1605392126 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\scp-covid19\menus\menurelatorios.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1605378755 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\scp-covid19\validaentrada\alertasonoro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1605130177 source:c:\users\wglas\onedrive\documentos\trainings\programming\c\scp-covid19\validaentrada\coletaopcaomenu.c
+	<stdio.h>
+	<stdlib.h>
+
